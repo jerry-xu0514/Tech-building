@@ -1,0 +1,1 @@
+Familiarize yourself with GitHub & Notion!
