@@ -1,0 +1,23 @@
+Sachi: Feedback page
+	What do you need for that? Whats a quick and easy way for the readers to 
+	leave a message right there on the website? What way is most accessible 
+	to the group members? Email? Comments?
+
+	Task: create a feedback page which users can leave comments/questions/feedback
+	directly on top of the page.
+
+Tony: Blocked hyperlinks
+	How can you add buttons and put hyperlinks over them? Once you've done 
+	this, can you animate the buttons? Have them do a quick and small animation
+	once the cursor hovers over them? 
+
+	task: create a navigation bar with hyperlinks to 5 different other pages.
+	**Note** These 5 pages should all go to links with a navigation bar just like
+	this one but looped back.
+
+Nathan: Animations
+	What animations can we add over our website? scrolling animations? For
+	example the beautiful ones we see @ apple.com for their iphones. Or other
+	animations on the side. 
+
+	Taks: Try creating a website with animations.
