@@ -21,3 +21,5 @@ Nathan: Animations
 	animations on the side. 
 
 	Taks: Try creating a website with animations.
+
+GIVE ME A NAME :)
