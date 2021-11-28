@@ -1,0 +1,25 @@
+- [ ]  Title Page (main page, big page, first thing that people would see) (Tony)
+    - [ ]  Amazing graphic design skillz
+        - [ ]  color schemes
+        - [ ]  animations
+        - [ ]  formatting, (fonts, sizes, placements, use of media)
+    - [ ]  Titles, links to all the other pages
+    - [ ]  General descriptions
+    - [ ]  easy navigation
+    - [ ]  
+    
+- [ ]  Project description: (Nathan)
+    - [ ]  TBD
+    - [ ]  creating editing writes access to certain people
+        - [ ]  log in system (log in with google)
+        - [ ]  admin passwords
+        - [ ]  other ways ... idk
+    
+- [ ]  Blog page: (Nathan)
+    - [ ]  Creating editing writes to certain people
+        - [ ]  log in system (log in with google)
+        - [ ]  admin passwords
+        - [ ]  other ways ... idk
+    
+- [ ]  Contact page (Sachi):
+    - [ ]  Contacting, (name, email, things that allow for easier access both to the user and to the admin)
