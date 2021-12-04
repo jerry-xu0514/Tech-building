@@ -1,0 +1,12 @@
+<h3 id="mainHeading">The Coding Team</h3>
+<button id="changeColorBtn">Change the heading color</button>
+
+<script>
+window.addEventListener("load", function() {
+    document.getElementById("changeColorBtn").addEventListener("click", function() {
+        let myHeading = document.getElementById("mainHeading")
+        myHeading.style.color = "red";          //change the text color to red
+        myHeading.style.marginTop = "100px";    //move the heading down to 100px down
+    })
+})
+</script>
