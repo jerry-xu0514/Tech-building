@@ -10,7 +10,9 @@ router.get('/:paramName', (req, res) => {
 })
 
 router.get('/', (req, res) => {
-    res.json({asdf: "asdf"});
+    res.render('index', {
+        title: 'Main Page'
+    });
 })
 
 router.post('/create', (req, res) => {
