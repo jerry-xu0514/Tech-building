@@ -1,0 +1,138 @@
+[33mcommit 5607ca8b81a78bb8ca3b3fdf9e306657762e91de[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jerry Xu <jerriven@gmail.com>
+Date:   Sat Jan 15 15:56:06 2022 -0800
+
+    in class changes
+
+[33mcommit 69c8cb896b8123abae84d7cd09b91ac4c8e732e5[m
+Merge: bc95cf9 4552f72
+Author: Jerry Xu <jerriven@gmail.com>
+Date:   Sat Dec 18 16:25:44 2021 -0800
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit bc95cf9d4212ebebd63cca208cbc8e4dacdf1b34[m
+Author: Jerry Xu <jerriven@gmail.com>
+Date:   Sat Dec 18 16:24:45 2021 -0800
+
+    in class updates
+
+[33mcommit 4552f72d791df744b178ba7de4236419cee94d54[m
+Author: Aldrin Cheung <aldrin.cheung@gmail.com>
+Date:   Sat Dec 18 15:16:11 2021 -0800
+
+    demonstrate how to make login system in nodejs
+
+[33mcommit be327d221bc5f166a96bc4bfa5796c5e2afc5d95[m
+Author: Jerry Xu <jerriven@gmail.com>
+Date:   Sat Dec 18 14:31:19 2021 -0800
+
+    dsc updates
+
+[33mcommit 06977e3911a265bba129391c0d089a145ce53ea4[m
+Author: Aldrin Cheung <aldrin.cheung@gmail.com>
+Date:   Sat Dec 11 15:56:12 2021 -0800
+
+    week 4
+
+[33mcommit 7a32b1175afa3b0827d3f4e2ded0abf82a298be9[m
+Author: Aldrin Cheung <aldrin.cheung@gmail.com>
+Date:   Sat Dec 11 14:48:46 2021 -0800
+
+    almost all the code you need for node.js
+
+[33mcommit 2969e9ff928b925152dfa62d3bed48f0fd96637d[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Dec 4 01:52:09 2021 -0800
+
+    :)
+
+[33mcommit fc2659d777e78cef5077da00aa383613904c81a0[m
+Author: Aldrin Cheung <aldrin.cheung@gmail.com>
+Date:   Sat Dec 4 01:44:55 2021 -0800
+
+    :)
+
+[33mcommit ad8d2581858eaa01306e53e0916936ad0544efd1[m[33m ([m[1;31morigin/html_Nathan[m[33m)[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 27 16:13:27 2021 -0800
+
+    Adding webapp folder
+
+[33mcommit 802feb6876d0815271469d774b0b502a7b76a30c[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 27 15:54:27 2021 -0800
+
+    :)
+
+[33mcommit 13c956c04065657db0c5d6ecd8b798033a730ebf[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 20 16:40:50 2021 -0800
+
+    end of class 2
+
+[33mcommit 5e27b03d2e11a9bd32a04e88a28a1f762f8c0c61[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 20 16:32:41 2021 -0800
+
+    end of class 2
+
+[33mcommit e3d53c6eab4d3a2abc87bdd79563d0acff2b2b6f[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 20 15:51:42 2021 -0800
+
+    inclass update 1
+
+[33mcommit 0a5ae1b3d9a74575378b05f79aac1695288f7001[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 20 15:50:21 2021 -0800
+
+    week 2 updates
+
+[33mcommit 749833d00137a79a62c2fcac7a07cbe224437d37[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 20 14:56:01 2021 -0800
+
+    week 2 updates
+
+[33mcommit e6d0bb3917f19872f3a2cbc5d56ce6eb7a3949d6[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 20 14:54:54 2021 -0800
+
+    week 2 updates
+
+[33mcommit 503220f6f504de9de8db5ec51388d4e1d99cd081[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 13 16:01:55 2021 -0800
+
+    updated homework again, last time i swear
+
+[33mcommit 71ad81af3ecfe4dde1736b3371b700627584b9a9[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 13 15:53:10 2021 -0800
+
+    Change location of homework for easier access
+
+[33mcommit fd593d6b9fc349fe3fb37a777fbe2bc65e20a768[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Sat Nov 13 15:43:42 2021 -0800
+
+    Updating homework for week 1
+
+[33mcommit 724967ff73aedb808d3ea736e1bba2f824dc9a46[m
+Author: Jerry Xu <jerriven@gmail.com>
+Date:   Thu Nov 11 07:41:24 2021 -0800
+
+    hello~
+
+[33mcommit 61b1ed8d002f4c0a47541ab30587b4231a6b0856[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Thu Nov 11 07:23:15 2021 -0800
+
+    Update README.md
+
+[33mcommit e7f7457e8a1dfc7508c9b1063f021428f290c3e5[m
+Author: jerry-xu0514 <66206667+jerry-xu0514@users.noreply.github.com>
+Date:   Thu Nov 11 07:17:21 2021 -0800
+
+    Initial commit
